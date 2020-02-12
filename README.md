@@ -51,3 +51,6 @@ Other environment agnostic settings can be changed in `config/app.php`.
 The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
+=======
+# CRUD-with-CakePHP-V-4.0.1-
+Simple Crud operation,login, reset password, email verification with strabery cakephp version 4.0.1
